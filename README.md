@@ -36,6 +36,20 @@ The **Linear KPI Dashboard** is a web-based application that integrates with the
    php -S 0.0.0.0:8000 -t public
    ```
 
+## API Token Setup
+
+To use the Linear API, you need to insert your API token directly in the URL parameters. Follow these steps:
+
+1. **Obtain an API Token**: Go to your Linear account settings and generate a new API token.
+2. **Access the Dashboard**: Use the following URL format to access the dashboard:
+   ```plaintext
+   http://192.168.1.55:8001/issues?linear-token=your_api_token_here
+   ```
+   Replace `your_api_token_here` with your actual API token.
+3. **Save the Changes**: Ensure you save any changes to your environment or settings.
+
+Now your application should be able to authenticate with the Linear API using the provided token in the URL parameters.
+
 ## Usage
 - Access the dashboard by navigating to `http://localhost:8000` in your web browser.
 - Use the sidebar to view detailed information about tasks and manage your workflow.
