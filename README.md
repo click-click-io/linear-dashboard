@@ -1,6 +1,6 @@
 # Linear KPI Dashboard
 
-![Linear KPI Dashboard](https://click-click.io/demo-image.jpeg)
+![Linear KPI Dashboard](https://click-click.io/demo.jpeg)
 
 ## Overview
 
