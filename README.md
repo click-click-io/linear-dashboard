@@ -1,10 +1,14 @@
 # Linear KPI Dashboard
 
-![Linear KPI Dashboard](https://example.com/your-image.png)
+![Linear KPI Dashboard](https://click-click.io/new-demo-image.jpeg)
 
 ## Overview
 
 The **Linear KPI Dashboard** is a web-based application that integrates with the Linear API to provide real-time insights into project ticket metrics. This dashboard allows users to efficiently manage tasks, track progress, and visualize project data in an intuitive interface.
+
+## Video Demo
+
+Watch the demo of the Linear KPI Dashboard [here](https://share.cleanshot.com/new-jXfDL6dx).
 
 ## Features
 - **Task Filtering**: Excludes tasks marked as "Done" from the display.
